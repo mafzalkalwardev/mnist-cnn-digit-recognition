@@ -1,4 +1,40 @@
-# MNIST CNN Project
+<div align="center">
+
+# 🚀 Mnist Cnn Digit Recognition
+
+**A deep learning project using TensorFlow and Convolutional Neural Networks (CNNs) to recognize handwritten digits from the MNIST dataset with GUI prediction, custom image testing, training visualization, and confusion matrix analysis.**
+
+Documented · MIT licensed · Maintained
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+
+[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
+
+</div>
+
+---
+
+## 🖼 Screenshots
+
+![Mnist Cnn Digit Recognition screenshot](docs/screenshots/placeholder.svg)
+
+*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
+
+---
+
+## 🐍 Contribution graph
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake.svg" />
+</picture>
+
+
+---
 
 A beginner-friendly deep learning project that trains a Convolutional Neural Network
 (CNN) to recognize handwritten digits from the MNIST dataset.
