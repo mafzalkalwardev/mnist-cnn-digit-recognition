@@ -231,3 +231,8 @@ python train.py --epochs 5
 python main.py predict-random --count 5
 python main.py predict-custom --image images/my_digit.png
 python main.py gui
+
+## Screenshots
+
+![mnist-cnn-digit-recognition dashboard](docs/screenshots/app.png)
+
