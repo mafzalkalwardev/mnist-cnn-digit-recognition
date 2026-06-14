@@ -235,4 +235,3 @@ python main.py gui
 ## Screenshots
 
 ![mnist-cnn-digit-recognition dashboard](docs/screenshots/app.png)
-
