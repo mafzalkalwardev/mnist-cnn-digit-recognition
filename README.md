@@ -10,29 +10,17 @@ Documented · MIT licensed · Maintained
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
-
 </div>
 
 ---
 
-## 🖼 Screenshots
-
-![Mnist Cnn Digit Recognition screenshot](docs/screenshots/placeholder.svg)
-
-*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
-
----
-
 ## 🐍 Contribution graph
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake.svg" />
 </picture>
-
 
 ---
 
@@ -224,14 +212,8 @@ professional deep learning workflow. For a report or presentation, include:
 - Example prediction screenshots
 - Final test accuracy and observations
 
-
 python train.py --epochs 5
-
 
 python main.py predict-random --count 5
 python main.py predict-custom --image images/my_digit.png
 python main.py gui
-
-## Screenshots
-
-![mnist-cnn-digit-recognition dashboard](docs/screenshots/app.png)
