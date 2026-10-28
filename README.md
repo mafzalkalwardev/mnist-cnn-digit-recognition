@@ -1,69 +1,70 @@
 <div align="center">
 
-# 🚀 Mnist Cnn Digit Recognition
+# MNIST CNN Digit Recognition
 
-**A deep learning project using TensorFlow and Convolutional Neural Networks (CNNs) to recognize handwritten digits from the MNIST dataset with GUI prediction, custom image testing, training visualization, and confusion matrix analysis.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=FF6F00&center=true&vCenter=true&width=900&lines=Deep+Learning+Digit+Recognition;TensorFlow+%2B+CNN+Pipeline;GUI+Prediction+%2B+Custom+Images;Training+viz+%2B+confusion+matrix" alt="Typing SVG" />
 
-Documented · MIT licensed · Maintained
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=ff6f00&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/mnist-cnn-digit-recognition?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/mnist-cnn-digit-recognition?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/mnist-cnn-digit-recognition?style=for-the-badge&color=64748b" alt="License" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>TensorFlow CNN project for MNIST handwritten digit recognition with GUI prediction, custom image testing, training visualization, and confusion matrix analysis.</strong>
+</p>
 
 </div>
 
 ---
 
-## Screenshots
+## Trophy Cards
 
-![Application screenshot](docs/screenshots/app.png)
-
-
-## 🐍 Contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mnist-cnn-digit-recognition/output/snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
 
 ---
 
-A beginner-friendly deep learning project that trains a Convolutional Neural Network
-(CNN) to recognize handwritten digits from the MNIST dataset.
+## Stats Cards
 
-The project demonstrates:
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-- Loading MNIST from Keras
-- Preprocessing image data for CNNs
-- Training a CNN with TensorFlow/Keras
-- Evaluating accuracy and loss
-- Saving and loading a trained model
-- Predicting random unseen test images
-- Predicting custom local digit images
-- Visualizing training curves, predictions, and a confusion matrix
-- Optional real-time digit drawing with Tkinter
+---
 
-For report screenshots, see `REPORT_SCREENSHOTS_GUIDE.md`.
+## Activity Graph
 
-## Folder Structure
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
 
-```text
-MNIST_CNN_Project/
-│
-├── dataset/
-├── models/
-├── images/
-├── main.py
-├── train.py
-├── predict.py
-├── gui.py
-├── requirements.txt
-└── README.md
-```
+---
 
-`dataset/` is included for project organization. MNIST is downloaded automatically
-by Keras, so you do not need to manually place dataset files there.
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`MNIST` `CNN` `TensorFlow` `digit recognition`
+
+---
 
 ## Installation
 
